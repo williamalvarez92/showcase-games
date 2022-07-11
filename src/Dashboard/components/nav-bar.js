@@ -1,11 +1,14 @@
 import React from "react";
+import './nav-bar.css'
+
+
 
 const NavBar = () => {
 
 return(
-    <>
-    HIIIIIs
-    </>
+    <div className="nav-bar">
+    I am a NavBar
+    </div>
 )
 
 }
